@@ -1,7 +1,7 @@
 import os
 
-directory_img = 'labeled_data/train/i'
-directory_labels = 'labeled_data/train/l'
+directory_img = 'labeled_data/train/images'
+directory_labels = 'labeled_data/train/labels'
 
 remove_filename = 'a4a84dd61b_png.rf.91f9c2102de370d4aeffe343c3285700'
 
