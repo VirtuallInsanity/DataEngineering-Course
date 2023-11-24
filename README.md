@@ -21,7 +21,7 @@
 ![example1](https://github.com/VirtuallInsanity/DataEngineering-Course/blob/hw2/imgs/Screenshot_137.jpg)
 ![example2](https://github.com/VirtuallInsanity/DataEngineering-Course/blob/hw2/imgs/Screenshot_138.jpg)
 
-В данном случае удалим изображения с плохой разметкой.
+В данном случае удалим изображения с плохой разметкой. Для этого воспользуемся скриптом **remover.py**
 ## Выводы
 Большинство изображений размечены корректно, однако изредка встречаются случаи когда разметка могла быть выполнена лучше, напирмер как на втором изображении.
 
