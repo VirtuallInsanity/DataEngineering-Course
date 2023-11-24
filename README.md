@@ -17,6 +17,7 @@
 ![assign](https://github.com/VirtuallInsanity/DataEngineering-Course/blob/hw2/imgs/Screenshot_145.jpg)
 
 Пример изображений с разметкой:
+
 ![example1](https://github.com/VirtuallInsanity/DataEngineering-Course/blob/hw2/imgs/Screenshot_137.jpg)
 ![example2](https://github.com/VirtuallInsanity/DataEngineering-Course/blob/hw2/imgs/Screenshot_138.jpg)
 
